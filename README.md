@@ -1,4 +1,4 @@
-[Uploading README.md…](# TrustFreight
+# TrustFreight
 
 Intelligent Contract on GenLayer for cross-border logistics dispute resolution.
 
@@ -33,4 +33,3 @@ Frontend is built with React + Vite + TailwindCSS and connects to GenLayer via `
    ```bash
    npm run dev
    ```
-)
